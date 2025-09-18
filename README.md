@@ -1,6 +1,6 @@
 # APR Assignment 1
 
-This repository contains my **Assignment 1** submission for the course **APR (Advanced Pattern Recognition)**.  
+This repository contains my **Assignment 1** submission for the course **CS502 -APR (Advanced Pattern Recognition)**.  
 
 ---
 
